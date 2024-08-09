@@ -2,9 +2,40 @@ html {
   height: 100%;
   width: 100%;
 }
+
 h1 {
   color: orange;
 }
-h2 { 
+
+h2 {
   color: blue;
+}
+
+h3 {
+  color: red;
+}
+
+.first {
+  color: green;
+}
+
+.second {
+  color: magenta;
+  
+}
+
+.third {
+  color: yellow;
+}
+
+.forth {
+  color: orange;
+}
+
+.fifth {
+  color: cyan;
+}
+
+ul {
+  color: purple;
 }
