@@ -43,3 +43,10 @@ ul {
 input type {
   color: skyblue;
 }
+.center{
+  text-align: center;
+}
+button {
+  background-color: cyan;
+  color-white;
+}
