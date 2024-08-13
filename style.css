@@ -50,3 +50,13 @@ button {
   background-color: cyan;
   color-white;
 }
+table,td,th {
+  border : 2px solid black ;
+  text-align : centre;
+  background-color : skyblue;
+}
+td{
+  background-color : gray;
+}
+  
+
